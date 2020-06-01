@@ -39,13 +39,13 @@ body{
 	padding-right:15px;
 }
 
-#showcase{
+/*#showcase{
 	background-image:url('../showcase.jpg');
 	background-position:center right;
 	min-height:300px;
 	margin-bottom:30px;
 	text-align: center;
-}
+}*/
 
 #showcase h1{
 	color:#fff;
